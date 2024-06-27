@@ -1,6 +1,6 @@
 # js-for-react-native-ID
 
-Student ID: 1129884
+Student ID: 11116298
 
 ## Task 1: Process Array
 - Created a function `processArray` in `arrayManipulation.js`.
@@ -15,9 +15,3 @@ Student ID: 1129884
 - Created a function `createUserProfiles` in `userInfo.js`.
 - The function takes an array of names and the array of modified names from Task 2.
 - It returns an array of objects, each containing `originalName`, `modifiedName`, and `id` (auto-incremented starting from 1).
-
-## Instructions
-- Created a GitHub account using student email (...@st.ug.edu.gh).
-- Created a repository named `js-for-react-native-ID` (e.g., `js-for-react-native-1129884`).
-- Cloned it to the local machine.
-- Committed each task separately.
